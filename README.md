@@ -14,6 +14,8 @@ Installation:
   Mpyg321: pip3 install mpyg321
   
   Pyttsx3: pip install pyttsx3
+  
+  SpeechRecognition: pip install SpeechRecognition
 
 
 
@@ -28,3 +30,5 @@ Mpg321: Mpg321 is a very popular command-line mp3 player. Mpg321 is used for fro
 Mpyg321: Mpyg321 is a simple python wrapper for mpg321 and mpg123. It allows you to easily play mp3 sounds in python, do basic operations on the music and implement callbacks for events like the end of a sound (text from PyPi).
 
 Pyttsx3: Pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3 (text from PyPi).
+
+SpeechRecognition: Library for performing speech recognition, with support for several engines and APIs, online and offline (text from PyPi).
